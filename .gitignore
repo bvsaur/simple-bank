@@ -19,6 +19,3 @@ go.work
 
 # Miscelaneous
 database-design
-
-# Env
-app.env
